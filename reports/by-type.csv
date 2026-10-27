@@ -1,0 +1,4 @@
+TypeName,Cycles,Failures,LabelMismatches,FailureRate
+High,1003,21,5,0.020937
+Low,6000,235,16,0.039167
+Medium,2997,83,6,0.027694

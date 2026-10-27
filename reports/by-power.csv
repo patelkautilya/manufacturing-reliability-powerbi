@@ -1,0 +1,4 @@
+PowerBand,Cycles,Failures,LabelMismatches,FailureRate
+01 Below 3.5 kW,31,31,0,1.000000
+02 3.5–9 kW,9905,244,27,0.024634
+03 Above 9 kW,64,64,0,1.000000

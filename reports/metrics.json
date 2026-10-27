@@ -1,0 +1,11 @@
+{
+  "cycles": 10000,
+  "failures": 339,
+  "failure_rate": 0.0339,
+  "label_mismatches": 27,
+  "failed_without_mode": 9,
+  "nonfailed_with_mode": 18,
+  "failures_with_multiple_modes": 24,
+  "source_sha256": "f601f14294bcf190f9d720676b7f0aea46a26cde9ab8ebc7b4f8174d9d26b252",
+  "source_rows": 10000
+}
